@@ -17,3 +17,6 @@ Release/
 # CMake
 CMakeFiles/
 CMakeCache.txt
+
+# macOS build output
+/mouse-jiggle
